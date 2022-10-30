@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Hanalei+Fill&display=swap");
+
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/bouton.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Dancing Script', cursive;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Hanalei Fill', cursive;
+	font-weight: bold;
+}
+
+
+
+
